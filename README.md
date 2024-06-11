@@ -2,7 +2,7 @@
 
 # Analysing historical forced migrations across the Atlantic Ocean 🚢
 ## Aim 🔍
-The aim of this project involves the analysing the data, removing trends and seasonal effects, identifying the underlying process, understanding the dominant frequencies, and using the residuals to make predictions. 
+The aim of this project involves the analyses the data, removing trends and seasonal effects, identifying the underlying process, understanding the dominant frequencies, and using the residuals to make predictions. 
 
 ## Introduction 🌊
 Having given a collection of records documenting slave voyages across the Atlantic Ocean between 1654 and 1807, our primary goal is to uncover insights through careful analysis. First, we must address trends or seasonality in the data as they might overshadow the underlying variations. Trends represent long-term movement or patterns that show a general direction in which the data moves over time, while seasonality refers to a pattern of variation in the data that occurs at regular intervals.
