@@ -11,7 +11,7 @@ When the trends and seasonality are removed, we can go on to identify the underl
 
 Once we have the process that generated the data, we can utilize the residuals – the difference between the actual data and the fitted model, to make prediction values.
 
-## Dataset used 
+## Dataset used 🧩
 The dataset used in this analysis is the [slavery.Rdata](https://github.com/SathyasriS27/Time-Series-and-Spectral-Analysis-/blob/main/slavery.RData)
 
 ## Built with 🛠️
